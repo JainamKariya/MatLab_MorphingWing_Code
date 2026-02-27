@@ -151,8 +151,3 @@ Output:
 **Jainam Kariya**
 Mechanical Engineering — Aerospace Focus
 
----
-
-## 📜 License
-
-Educational and research use only.
